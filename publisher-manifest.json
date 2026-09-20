@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "bde729ca00f29f7e6502a547",
+  "owner": "pbgkqv",
+  "repo": "page-f3bfbdc990bd4b9d511362ec",
+  "title": "ARK",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f3bfbdc990bd4b9d511362ec",
+      "a": "ARK",
+      "b": "机场官网线路发布页",
+      "entity": "ARK",
+      "brand": "ARK",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "cd47401d3bea6cf8981ed5be8e98483d80db15f95317cd5b7558558f6e397ec4",
+      "content": {
+        "primary_entity": "ARK",
+        "keyword1": "ARK",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端：Windows 与 macOS 用 Clash Verge 或 V2RayN，iOS 用 Shadowrocket，Android 用 Clash Meta，路由器可刷 OpenWrt。",
+          "AI_CLIENTS_TITLE": "按设备匹配客户端",
+          "AI_CLOSING_TEXT": "先按设备数量与月流量锁定套餐，再导入订阅开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连上 ARK",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，设备上限从 3 台到 20 台。三档都支持按月或按年付费，年付方案分别为 ¥150、¥350 与 ¥850。按设备数量和使用频率选择对应档位即可。",
+          "AI_FAQ_ANSWER_1": "基础版适合 1 至 3 台设备、月流量 100GB 以内的轻度使用；旗舰版适合 5 台设备、每月 300GB 且需要 IPLC 专线游戏加速；团队版面向 20 台设备、1000GB 及企业定制路由。",
+          "AI_FAQ_ANSWER_2": "在 Clash Verge、V2RayN、Shadowrocket 等客户端中粘贴订阅链接即可导入，随后选择节点并启用系统代理。不同客户端的导入入口名称略有差异，可参照对应客户端文档。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。多设备同时使用时，建议按常用设备数量选择，超出设备上限会导致无法连接。",
+          "AI_FAQ_ANSWER_4": "年付比月付更划算：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相当于每月分别约为 12.5 元、29 元与 70.8 元。",
+          "AI_FAQ_ANSWER_5": "旗舰版具备全节点原生流媒体解锁与 IPLC 专线游戏加速优化，并含 7×24 优先工单支持；团队版提供 VIP 专属高带宽节点与企业定制路由，按需求选择即可。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版分别适合哪些使用场景？",
+          "AI_FAQ_QUESTION_2": "拿到订阅后如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "同一时间可以几台设备同时在线？",
+          "AI_FAQ_QUESTION_4": "年付和月付的价格差多少？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版相比基础版多了哪些权益？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和订阅周期三个角度快速判断适合自己的档位。",
+          "AI_FEATURES_TITLE": "套餐如何选",
+          "AI_FEATURE_TEXT_1": "3 台设备以内选基础版，5 台选旗舰版，20 台选团队版，按同时在线数量决定。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "100GB、300GB、1000GB 三档月流量，轻度浏览选基础，游戏与流媒体选旗舰，多设备共享选团队。",
+          "AI_FEATURE_TITLE_2": "按流量定档",
+          "AI_FEATURE_TEXT_3": "年付仅需 ¥150、¥350 与 ¥850，比按月订阅更划算，适合确定长期使用的用户。",
+          "AI_FEATURE_TITLE_3": "按周期省费",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到连接使用。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "ARK 提供基础版、旗舰版与团队版三档订阅，覆盖 3 至 20 台设备与 100GB 至 1000GB 月流量，并针对流媒体、游戏与企业路由做了区分。",
+          "AI_HERO_SUBTITLE": "按设备与流量挑选订阅档位",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "100GB 至 1000GB 月流量可选",
+          "AI_HIGHLIGHT_3": "按年付比按月订阅更省费用",
+          "AI_PLANS_INTRO": "基础版 ¥15/月；旗舰版 ¥35/月；团队版 ¥85/月。年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按月流量与常用设备数量，在基础版、旗舰版、团队版中挑一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、流量额度与线路类型，确认满足使用需求。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅链接，选择节点后启用代理开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "ARK 海外加速订阅"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "53f0e.cn",
+    "host": "53f0e.cn"
+  },
+  "file_hashes": {
+    "index.html": "ebb9c8431c961fe03e5dd5f937a2ef514064e3d77d2caae76a4e20a8786e7316",
+    "sitemap.xml": "44294bb1040f44888267e4d6b6a7cc6ea13b7a46df66ac048bd9820ebcd8af8d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "60eb64b4a245300e0777b627caf3b55b8d4247b688d6ce3d4156e9c4b21f60f5",
+    "robots.txt": "ba14ee4e31be0f71c02f850ccc6a59afeb20b62694673d2a0fb43b4f535280b4",
+    "9eb3b2e03cc80400606ec34de8cb8acc.txt": "9b4eb49d04f96ab2c4679b575922d3cefbf83745d88851f37b97a08e6cf2164b"
+  },
+  "revision": "c1db516fbb13fb2da49fef7b74653398142fa3ff6d1d491eecd40b92cd9fdee9"
+}
